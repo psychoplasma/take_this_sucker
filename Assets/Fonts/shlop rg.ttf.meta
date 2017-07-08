@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fbe8db6d575e7472fa3ce180f10bfbd2
+timeCreated: 1484718690
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Shlop
+  fontNames:
+  - Shlop
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 50af00aab81274bc88487519c899ce49
+timeCreated: 1484718704
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VTC Night Of The
+  fontNames:
+  - VTC Night Of The
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5f4fdf1875cee48098f286c9e27a31b0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
